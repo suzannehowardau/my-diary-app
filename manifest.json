@@ -1,0 +1,41 @@
+json & "name": "My Diary",
+"short_name": "My Diary",
+"description": "Personal diary app with AI-powered insights",
+"start_url": "/",
+"display":
+"standalone",
+"background_color": "#ffffff",
+"theme_color": "#007AFF"
+"orientation": "portrait"
+"categories": ["lifestyle",
+"productivity"],
+"icons":
+"sre": "./
+icon-192.png"
+"192x192", png",
+"any"
+"./icon-512.png",
+"sizes":
+"type": "image/
+"purpose":
+"src" :
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+"src": "./icon-192-
+maskable.png",
+"sizes":
+"192x192",
+"type":
+"image/png",
+"purpose":
+"maskable"
+"src":
+maskable.png"
+"512x512", png",
+•/icon-512-
+"sizes":
+"type": "image/
+"purpose":
+"maskable"
+｝
